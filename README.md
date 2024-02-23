@@ -1,19 +1,16 @@
-### Hi there, 공사중.. 👋
-
-
-#😄 About Me(KimSunGyu)
+😄 About Me(KimSunGyu)
 --
 학교, 수료한 학원
 
-# 📖 Project 
+## 📖 Project 
 --
 프로젝트 2개
 
-# 🖱️ Languages, Framwork, Tools
+## 🖱️ Languages, Framwork, Tools
 --
 쓰는것 ,쓴것들 적기
 
-# 📬 Contact me
+## 📬 Contact me
 --
 ...
 
