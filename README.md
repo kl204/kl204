@@ -8,7 +8,7 @@
 
 프로젝트 2개
 
-## 🖱️ Languages, Framwork, Tools
+## 🖱️ Skills
 
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
