@@ -1,21 +1,30 @@
 😄 About Me(KimSunGyu)
---
+
 **비트교육센터**(2023.05 ~ 2023.12) - 부산시 Java/Spring 풀스택 개발자 과정
 
 **부산대학교 전기컴퓨터공학부 정보컴퓨터공학과**(2019.03 ~ 2023.02)
 
 ## 📖 Project 
---
+
 프로젝트 2개
 
 ## 🖱️ Languages, Framwork, Tools
---
-쓰는것 ,쓴것들 적기
+
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![js](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ## 📬 Contact me
---
-...
 
+📱 ssungyuu@gmail.com <br>
+🔗 <a href ="https://www.rocketpunch.com/@rlatjsrb10">로켓펀치</a>
 
 <!--
 **kl204/kl204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
