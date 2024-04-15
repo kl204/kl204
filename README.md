@@ -5,8 +5,8 @@
 **비트교육센터**(2023.05 ~ 2023.12) - 부산시 Java/Spring 풀스택 개발자 과정
 
 ## 📖 Project 
-### 1. 설문조사 플랫폼 프로젝트[kl204/Survey-Project-Backend](https://github.com/kl204/Survey-Project-Backend)
-### 2. 판결문 웹 크롤링 프로젝트
+### 1. 설문조사 플랫폼 프로젝트 [kl204/Survey-Project-Backend](https://github.com/kl204/Survey-Project-Backend)
+### 2. 판결문 웹 크롤링 프로젝트 https://github.com/kl204/law-proj-python
 
 ## 📜 자격증
 **SQLD 한국데이터진흥원(2024.04.05)**
