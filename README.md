@@ -6,7 +6,9 @@
 
 ## 📖 Project 
 ### 1. 설문조사 플랫폼 프로젝트 [kl204/Survey-Project-Backend](https://github.com/kl204/Survey-Project-Backend)
-### 2. 판결문 웹 크롤링 프로젝트 https://github.com/kl204/law-proj-python
+### 2. 판결문 웹 크롤링 프로젝트 [kl204/law-proj-python](https://github.com/kl204/law-proj-python)
+
+
 
 ## 📜 자격증
 **SQLD 한국데이터진흥원(2024.04.05)**
