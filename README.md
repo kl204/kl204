@@ -7,6 +7,7 @@
 ## 📖 Project 
 ### 1. 설문조사 플랫폼 프로젝트 [kl204/Survey-Project-Backend](https://github.com/kl204/Survey-Project-Backend)
 ### 2. 판결문 웹 크롤링 프로젝트 [kl204/law-proj-python](https://github.com/kl204/law-proj-python)
+### 3. 교육 플랫폼 게시판 프로젝트 [kl204/eduProjJPA](https://github.com/kl204/eduProjJPA)
 
 
 
