@@ -4,6 +4,9 @@
 
 **비트교육센터**(2023.05 ~ 2023.12) - 부산시 Java/Spring 풀스택 개발자 과정
 
+**부산대학교 과학교육연구소 보조연구원**(2024.05 ~) - 과학 교육 플랫폼 백엔드 개발자
+
+
 ## 📖 Project 
 ### 1. 설문조사 플랫폼 프로젝트 [kl204/Survey-Project-Backend](https://github.com/kl204/Survey-Project-Backend)
 ### 2. 판결문 웹 크롤링 프로젝트 [kl204/law-proj-python](https://github.com/kl204/law-proj-python)
