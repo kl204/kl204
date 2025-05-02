@@ -8,12 +8,12 @@
 
 **고려대학교 소프트웨어보안연구소 연구원**(2024.11 ~) - iotcube.net 기획 및 풀스택 개발자
 
-
+<!--
 ## 📖 Project 
 ### 1. 부산대학교 과학교육플랫폼 프로젝트 <a href ="https://new.greenseed.or.kr/">SEEd</a>
 ### 2. 설문조사 플랫폼 프로젝트 [kl204/Survey-Project-Backend](https://github.com/kl204/Survey-Project-Backend)
 ### 3. 판결문 웹 크롤링 프로젝트 [kl204/law-proj-python](https://github.com/kl204/law-proj-python)
-
+-->
 
 ## 📜 자격증
 ### 정보처리기사 
