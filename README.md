@@ -37,7 +37,7 @@
 
 ## 📬 Contact me
 
-📱 ssungyuu@gmail.com <br>
+📱 kl204@korea.ac.kr <br>
 
 <!--
 **kl204/kl204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
