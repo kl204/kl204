@@ -13,7 +13,9 @@
 
 ## 📖 Project
 ### 1. Iotcube 2.0(Hatbom), SBOM 및 VEX 생성, 소프트웨어 공급망 보안 플랫폼 개발 프로젝트 (24.11 ~ 25.08)
- https://iotcube.net/
+--> (Springboot/React 기반) iotcube 1.0 기반으로 리뉴얼 재개발 작업
+--> 담당: 기획, 디자인, 백엔드, 프론트엔드, 인프라
+--> https://iotcube.net/
 
 ## 📜 자격증
 ### 정보처리기사 
